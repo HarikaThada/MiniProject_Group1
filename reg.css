@@ -1,0 +1,98 @@
+#forms {
+    width: 300px;
+    border: 2px solid #010614ce;
+    padding: 0px 15px 15px 15px;
+    border-radius: 5px;
+     
+    line-height: 16px;
+    color: #333333;
+    font-size: 16px;
+    background:whitesmoke;
+    margin: 100px auto;
+    
+  }
+  .mainForm{
+    /* background-image: url("D:\img1.jpg"); */
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  form label, form input {
+    display: block;
+    margin-bottom: 2px;
+    width: 90%
+    
+  }
+  form input {
+    padding: 10px;
+    border: solid 1px #BDC7D8;
+    border-radius: 5px;
+  }
+  button {
+    background-color: #00BFFF;
+    border: black 5px;
+    width: 150px;
+    height: 30px;
+    border-radius: 8px;
+    font-weight: bold;
+    padding: 5px 5px;
+    color: blue;
+  }
+  .box1{
+    text-align: center;
+    background-image: url("https://content.jdmagicbox.com/comp/chennai/b9/044pxx44.xx44.180118121413.r9b9/catalogue/aypazha-computer-service-kandanchavadi-chennai-computer-repair-and-services-mz8sh.jpg");
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
+  .box2{
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-photo/contact-icons-keyboard-button-online-contact-concept_2227-1391.jpg?size=626&ext=jpg&ga=GA1.2.1724892755.1637020800");
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    color: red;
+  }
+
+  .box3{
+    text-align: center;
+    background-image: url("https://media.istockphoto.com/photos/computer-keyboard-about-us-picture-id496280806?k=20&m=496280806&s=612x612&w=0&h=5TXqE4cyyNxarkVnMrM5Qh_Djz1DQqcbqffz30GHOds=");
+    position: fixed;
+    padding: 0px 15px 15px 15px;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    color: black;
+  }
+  @media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+  #register {
+    width: 300px;
+    border: 2px solid #010614ce;
+    padding: 0px 15px 15px 15px;
+    border-radius: 5px;
+    
+    line-height: 16px;
+    color: #333333;
+    font-size: 16px;
+    background:whitesmoke;
+    margin: 100px auto;
+    background-color:cadetblue;
+  }
